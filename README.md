@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikitosych
 - 👀 I’m interested in Web, Games, Music, Drums, Photography, Hiking, Nature, Life
-- 🌱 I’m currently learning JavaScript, TypeScript, C#, C++, Python, Git, Math
+- 🌱 I’m currently learning С#
 - 😄 Pronouns: not gay
 - ⚡ Fun fact: im human
 
