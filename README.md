@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikitosych
 - 👀 I’m interested in Web, Games, Music, Drums, Photography, Hiking, Nature, Life
-- 🌱 I’m currently learning С#
+- 🌱 I’m currently learning .NET
 - 😄 Pronouns: not gay
 - ⚡ Fun fact: im human
 
